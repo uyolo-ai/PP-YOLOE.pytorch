@@ -3,4 +3,4 @@ This is the unofficial implementation of [PP-YOLOE: An evolved version of YOLO](
 
 # Architecture
 
-![ppyoloe](ppyoloe.png)
+![ppyoloe](ppyoloe.svg)
