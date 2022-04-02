@@ -3,4 +3,4 @@ This is the unofficial implementation of [PP-YOLOE: An evolved version of YOLO](
 
 # Architecture
 
-![ppyoloe](ppyoloe.svg)
+![ppyoloe](https://raw.githubusercontent.com/uyolo1314/PP-YOLOE.Pytoch/main/ppyole.svg)
